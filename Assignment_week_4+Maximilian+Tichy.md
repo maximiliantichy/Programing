@@ -4,7 +4,7 @@
 Use the following table to provide us with
 
 |name | exam number|
-|----|----|
+|Magdalena Kuyternink|1279765|
 |Maxilian Tichy| 200740|
 |other group member's name| exam number|
 
