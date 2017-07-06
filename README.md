@@ -20,4 +20,6 @@ Programing/Assignment_week_4+Maximilian+Tichy.md
 
 [assignment 5](https://github.com/maximiliantichy/Programing/blob/master/assignment5.md)
 
+[PythonExam](https://github.com/maximiliantichy/Programing/blob/master/resit%20exam%20exercise.ipynb)
+
 
